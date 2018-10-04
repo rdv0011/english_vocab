@@ -126,5 +126,31 @@ bridge
 brief
 briefly
 bright
+brilliant
+bring
+broad
+broken
+brother
+brown
+brush
+buck
+budget
+build
+building
+bullet
+bunch
+burden
+burn
+bury
+bus
+business
+busy
+but
+butter
+button
+buy
+buyer
+by
+
 
 
